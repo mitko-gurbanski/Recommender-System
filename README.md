@@ -1,2 +1,2 @@
 # Recommender-System
-Python file for <a href="https://www.scienceez.com/?p=82&preview=true">Recommender System Built Tutorial</a> for <a>scienceEZ.com</a>
+This is <a href="https://www.scienceez.com/build-recommender-system/" rel="https://www.scienceez.com/build-recommender-system/">Recommender Sytem Built Tutorial</a> for scienceEZ.com
